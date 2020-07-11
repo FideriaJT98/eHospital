@@ -9,5 +9,5 @@ For installation please follow these video by Dereck Banas https://www.youtube.c
 ![alt text](Pictures/Admin_option.PNG)
 
 ### Structuring the Database
-- template, will work on it after I know off
+- created with http://draw.io/
 ![alt text](Pictures/schema.png)
